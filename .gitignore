@@ -1,0 +1,10 @@
+.DS_Store
+tmp/
+Summarize/.qa/*.png
+Summarize/.qa/*.json
+.idea/
+.vscode/
+node_modules/
+
+# Add this file with `git add -f` only after Git LFS is installed.
+TextBook/Principles of Economics.pdf
